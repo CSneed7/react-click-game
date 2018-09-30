@@ -1,0 +1,22 @@
+.header {
+    background-image: url("https://media.giphy.com/media/26his8ERHOSxKuWw8/giphy.gif");
+    height: 400px;
+  }
+  
+  .header h1 {
+    margin: auto;
+    padding-top: 150px;
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
+  h2{
+      text-align: center;
+      padding-top: 20px;
+      color: black;
+  }
+  
+
